@@ -8,7 +8,8 @@
         "composer-plugin-api": "^1.0.0",
         "alchemy/zippy": "~0",
         "guzzlehttp/guzzle": "~6.1",
-        "codegyre/robo": "dev-master"
+        "codegyre/robo": "dev-master",
+        "pear/archive_tar": "~1.0"
     },
     "autoload": {
         "psr-4": {
