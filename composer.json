@@ -6,7 +6,6 @@
     "require": {
         "php": ">=5.4.5",
         "composer-plugin-api": "^1.0.0",
-        "alchemy/zippy": "~0",
         "guzzlehttp/guzzle": "~6.1",
         "codegyre/robo": "dev-master",
         "pear/archive_tar": "~1.0"
